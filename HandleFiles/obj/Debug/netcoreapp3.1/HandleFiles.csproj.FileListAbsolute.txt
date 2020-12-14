@@ -1,0 +1,10 @@
+/Users/silviocressoni/Documents/Studyies/DEV/C#/HandleFiles/HandleFiles/bin/Debug/netcoreapp3.1/HandleFiles.deps.json
+/Users/silviocressoni/Documents/Studyies/DEV/C#/HandleFiles/HandleFiles/bin/Debug/netcoreapp3.1/HandleFiles.runtimeconfig.json
+/Users/silviocressoni/Documents/Studyies/DEV/C#/HandleFiles/HandleFiles/bin/Debug/netcoreapp3.1/HandleFiles.runtimeconfig.dev.json
+/Users/silviocressoni/Documents/Studyies/DEV/C#/HandleFiles/HandleFiles/bin/Debug/netcoreapp3.1/HandleFiles.dll
+/Users/silviocressoni/Documents/Studyies/DEV/C#/HandleFiles/HandleFiles/bin/Debug/netcoreapp3.1/HandleFiles.pdb
+/Users/silviocressoni/Documents/Studyies/DEV/C#/HandleFiles/HandleFiles/obj/Debug/netcoreapp3.1/HandleFiles.csprojAssemblyReference.cache
+/Users/silviocressoni/Documents/Studyies/DEV/C#/HandleFiles/HandleFiles/obj/Debug/netcoreapp3.1/HandleFiles.AssemblyInfoInputs.cache
+/Users/silviocressoni/Documents/Studyies/DEV/C#/HandleFiles/HandleFiles/obj/Debug/netcoreapp3.1/HandleFiles.AssemblyInfo.cs
+/Users/silviocressoni/Documents/Studyies/DEV/C#/HandleFiles/HandleFiles/obj/Debug/netcoreapp3.1/HandleFiles.dll
+/Users/silviocressoni/Documents/Studyies/DEV/C#/HandleFiles/HandleFiles/obj/Debug/netcoreapp3.1/HandleFiles.pdb
